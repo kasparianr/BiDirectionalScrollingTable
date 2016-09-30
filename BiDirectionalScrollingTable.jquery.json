@@ -3,7 +3,8 @@
   "title": "Bi-Directional Scrolling Table",
   "description": "A bi-directional scrolling table.",
   "keywords": [
-    "jquery-plugins",
+    "jquery",
+    "plugin",
     "table",
     "scroll",
     "widget"
