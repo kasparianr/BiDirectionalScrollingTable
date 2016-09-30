@@ -1,0 +1,31 @@
+{
+  "name": "BiDirectionalScrollingTable",
+  "title": "Bi-Directional Scrolling Table",
+  "description": "A bi-directional scrolling table.",
+  "keywords": [
+    "jquery-plugins",
+    "table",
+    "scroll",
+    "widget"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "kasparianr",
+    "url": "https://github.com/kasparianr"
+  },
+  "maintainers": [
+    {
+      "name": "kasparianr",
+      "url": "https://github.com/kasparianr"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
